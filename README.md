@@ -47,7 +47,6 @@
 
 
   - 사용자 화면
-    
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png" alt="주문화면" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/BZKRCiX8W6.png" alt="과거주문내역" width="200" height="450">
@@ -55,7 +54,6 @@
 
 
   - 관리자 화면
-    
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/xOTrNxVX7s.png" alt="로그인" width="240" height="170">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/Dm2ExjPvDz.png" alt="대기화면" width="240" height="170">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/U8bmt91JHT.png" alt="접수화면" width="240" height="170">
