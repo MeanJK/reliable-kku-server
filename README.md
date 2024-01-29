@@ -1,12 +1,11 @@
-#Project-든붕이
+# Project-든붕이
 카페 미리주문 어플
 
 
 ## 목차
   - [프로젝트 소개](#프로젝트_소개)
   - [개요](#개요)
-  - [프로젝트 설명](#프로젝트 설명)
-  - [프로젝트 설명](#프로젝트 설명)
+  - [프로젝트 설명](#프로젝트설명)
 
 ## 프로젝트 소개
 '스타벅스 사이렌 오더'와 비슷한 카페 미리주문 어플입니다.
@@ -27,4 +26,9 @@
 - Client
 - 팀원(정경주) - 사용자
 - 팀원(김선규) - 관리자
+
+  ## 프로젝트설명
+  <img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png)https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png"  width="700" height="370">
+
+  
 
