@@ -45,13 +45,11 @@
 
 **관리자 어플**은 사용자가 어플로 주문한 주문에 대한 상태 및 매출 등을 확인/처리 할 수 있고, 현장 주문 접수도 가능하도록 구현하였습니다.
 
-
   - 사용자 화면
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png" alt="주문화면" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/BZKRCiX8W6.png" alt="과거주문내역" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/gcMArCnHIi.png" alt="마이페이지" width="200" height="450">
-
 
   - 관리자 화면
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/xOTrNxVX7s.png" alt="로그인" width="240" height="170">
