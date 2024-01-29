@@ -36,18 +36,18 @@
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/gcMArCnHIi.png" alt="마이페이지" width="200" height="450">
 
   - 관리자 화면
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/xOTrNxVX7s.png" alt="로그인" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/Dm2ExjPvDz.png" alt="대기화면" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/U8bmt91JHT.png" alt="접수화면" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/sLjV8P5Qij.png" alt="완료화면" width="300" height="200">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/xOTrNxVX7s.png" alt="로그인" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/Dm2ExjPvDz.png" alt="대기화면" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/U8bmt91JHT.png" alt="접수화면" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/sLjV8P5Qij.png" alt="완료화면" width="250" height="180">
   
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/FkN0EJuoVA.png" alt="영업관리" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/LeqsHwplN7.png" alt="메뉴관리" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/dzKbjZez5w.png" alt="메뉴수정" width="300" height="200">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/fhXFWdEbtM.png" alt="회원관리" width="300" height="200">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/FkN0EJuoVA.png" alt="영업관리" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/LeqsHwplN7.png" alt="메뉴관리" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/dzKbjZez5w.png" alt="메뉴수정" width="250" height="180">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/fhXFWdEbtM.png" alt="회원관리" width="250" height="180">
   
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/2bxXPLKY7X.png" alt="매출관리1" width="600" height="400">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/K561yFnwDn.png" alt="매출관리2" width="600" height="400">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/2bxXPLKY7X.png" alt="매출관리1" width="570" height="385">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/K561yFnwDn.png" alt="매출관리2" width="570" height="385">
   
   
 
