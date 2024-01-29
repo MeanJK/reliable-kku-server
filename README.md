@@ -28,7 +28,7 @@
 - 팀원(김선규) - 관리자
 
   ## 프로젝트설명
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="500" height="300">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="300" height="600">
 
   
 
