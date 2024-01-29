@@ -32,5 +32,7 @@
   - 메인화면 및 주문화면
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="200" height="450">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png" alt="주문화면" width="200" height="450">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/BZKRCiX8W6.png" alt="과거주문내역" width="200" height="450">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/gcMArCnHTi.png" alt="마이페이지" width="200" height="450">
   
 
