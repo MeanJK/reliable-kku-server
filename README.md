@@ -46,8 +46,8 @@
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/dzKbjZez5w.png" alt="메뉴수정" width="240" height="170">
   <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/fhXFWdEbtM.png" alt="회원관리" width="240" height="170">
   
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/2bxXPLKY7X.png" alt="매출관리1" width="560" height="380">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/K561yFnwDn.png" alt="매출관리2" width="560" height="380">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/2bxXPLKY7X.png" alt="매출관리1" width="480" height="320">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/K561yFnwDn.png" alt="매출관리2" width="480" height="320">
   
   
 
