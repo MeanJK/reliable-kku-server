@@ -29,8 +29,8 @@
 
   ## 프로젝트설명
 
-  메인화면 및 주문화면
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="300" height="650">
-  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png" alt="주문화면" width="300" height="650">
+  - 메인화면 및 주문화면
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/WLGKnbuiPG.png" alt="메인화면" width="200" height="450">
+  <img src="https://i.esdrop.com/d/f/pDyqiY4YnX/tkThg0o5yb.png" alt="주문화면" width="200" height="450">
   
 
